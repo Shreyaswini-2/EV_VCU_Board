@@ -58,4 +58,3 @@ The VCU does not control the motor directly; it communicates with the motor cont
 ## Purpose
 
 This project is built to understand real-world EV electronic architecture, embedded system design, and automotive-style control logic using STM32.
-# EV_VCU_Board
