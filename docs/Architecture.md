@@ -7,7 +7,7 @@ The Vehicle Control Unit (VCU) is a central controller for a 48V electric vehicl
 ---
 
 ## 2. Block Diagram
-![VCU Architecture](images/vcu_architecture.png)
+![VCU Architecture](System architecture.drawio.png)
 
 ---
 
